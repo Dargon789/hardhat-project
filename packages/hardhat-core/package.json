@@ -114,7 +114,7 @@
     "@types/bn.js": "^5.1.0",
     "@types/lru-cache": "^5.1.0",
     "abort-controller": "^3.0.0",
-    "adm-zip": "^0.4.16",
+    "adm-zip": "^0.6.1",
     "aggregate-error": "^3.0.0",
     "ansi-escapes": "^4.3.0",
     "chalk": "^2.4.2",
@@ -144,7 +144,7 @@
     "source-map-support": "^0.5.13",
     "stacktrace-parser": "^0.1.10",
     "tsort": "0.0.1",
-    "undici": "^5.14.0",
+    "undici": "^8.11.2",
     "uuid": "^8.3.2",
     "ws": "^7.4.6"
   },

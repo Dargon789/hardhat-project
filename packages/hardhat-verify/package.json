@@ -41,7 +41,7 @@
     "lodash.clonedeep": "^4.5.0",
     "semver": "^6.3.0",
     "table": "^6.8.0",
-    "undici": "^5.14.0"
+    "undici": "^8.11.2"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",
